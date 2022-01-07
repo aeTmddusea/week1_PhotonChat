@@ -1,7 +1,7 @@
 # ~1/6 1차 study
 
 ## Scene 1
-### Authentication.cs
+### Click.cs
 ##### 기본 설정값
 ID := "User"
 PW := "1234"
